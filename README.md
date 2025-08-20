@@ -59,5 +59,4 @@ git fetch                  # забрать без слияния
 ```bash
 git reset file.txt         # убрать из индекса
 git checkout -- file.txt   # отменить изменения в файле
-git revert <hash>          # отменить коммит (с новым коммитом)
 ```
