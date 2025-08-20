@@ -51,7 +51,6 @@ git merge branch-name     # слить ветку
 git remote add origin URL  # подключить удалённый репо
 git push -u origin main    # загрузить изменения
 git pull                   # стянуть изменения
-git fetch                  # забрать без слияния
 ```
 
 ### Отмена изменений 
